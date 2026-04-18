@@ -12,5 +12,5 @@ I am a **5th Semester Computer Science Student** at NUML. Currently, I am deep-d
 ---
 
 ### 📂 Active Repositories
-* 🌐 **Web-Engineering-Labs:** A collection of my current web architecture and engineering assignments.
+* [🌐 Web Engineering Portfolio](https://github.com/SabahBuilds/Web-Engineering-Labs)
 * 💻 **Architecture-Logic:** Documenting my progress in CPU logic and hardware simulations.
