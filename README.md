@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Saba Saeed! 👋
 
-<!--
-**SabahBuilds/SabahBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **5th Semester Computer Science Student** at NUML. Currently, I am deep-diving into **Web Engineering** and **Computer Architecture**, focusing on bridging the gap between high-level web applications and low-level hardware logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Learning & Building Right Now:
+* **Web Engineering:** Designing scalable web architectures and mastering the Request-Response lifecycle.
+* **Computer Architecture:** Exploring Instruction Set Architecture (ISA), CPU design, and hardware-software interfacing.
+* **Full-Stack Development:** Working with ASP.NET Core and Laravel.
+
+---
+
+### 📂 Active Repositories
+* 🌐 **Web-Engineering-Labs:** A collection of my current web architecture and engineering assignments.
+* 💻 **Architecture-Logic:** Documenting my progress in CPU logic and hardware simulations.
